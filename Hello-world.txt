@@ -6,4 +6,3 @@ class Simple{
 //
 //2.muahexanh edited
 //2.bangoc edited
-123456
